@@ -1,0 +1,3 @@
+one log line glows red
+three hours in, I see it now
+it was always null
